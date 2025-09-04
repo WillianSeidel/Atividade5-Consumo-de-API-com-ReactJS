@@ -1,7 +1,7 @@
 # Atividade5-Consumo-de-API-com-ReactJS
 
 📽️ Catálogo de Filmes
-Uma aplicação React moderna para explorar e gerenciar seus filmes favoritos. Consome a API do TMDB para buscar informações detalhadas sobre filmes.
+Uma aplicação React para explorar e gerenciar seus filmes favoritos. Consome a API do TMDB para buscar informações detalhadas sobre filmes.
 
 ✨ Funcionalidades
 
